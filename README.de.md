@@ -4,7 +4,7 @@
 
 <h3>Deine Daten. Dein Modell. Deine Hardware.</h3>
 
-<p><b>Klinische Texte auf kontrollierter Hardware in strukturierte, de-identifizierte Erkenntnisse umwandeln.</b><br/>
+<p><b>Klinische Texte auf kontrollierter Hardware lol in strukturierte, de-identifizierte Erkenntnisse umwandeln.</b><br/>
 Die lokale Kernlaufzeit von OpenMed führt Extraktion und De-Identifikation aus, sobald die benötigten Modellartefakte vorliegen. Modelldownloads, Adapter für entfernte Anbieter, telemetrieaktivierte Pfade und nutzerkonfigurierte Integrationen können das Netzwerk verwenden; prüfen Sie die Bedingungen jedes Modells und Datensatzes.</p>
 
 <p>
